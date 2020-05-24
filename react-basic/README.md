@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This Application is a Simple Todo with Mock Data. 
 
 ## Available Scripts
 
