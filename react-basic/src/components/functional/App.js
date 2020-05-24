@@ -8,7 +8,7 @@ import Footer from './Footer';
 function App() {
   return (
     <div>
-      <Header> </Header>
+      <Header></Header>
       <Form></Form>
       <MainContent></MainContent>
       <Footer></Footer>
